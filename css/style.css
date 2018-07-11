@@ -12,6 +12,11 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
+p{e
+  font-size: 22px
+  color: blu
+}
+
 
 .wrapper {
   margin: 0 auto;
